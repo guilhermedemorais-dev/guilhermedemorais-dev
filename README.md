@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -299,4 +297,5 @@
   document.head.appendChild(st);
 </script>
 </body>
+  <!-- Portfolio atualizado com links dos currículos -->
 </html>
