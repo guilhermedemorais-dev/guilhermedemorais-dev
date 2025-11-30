@@ -14,11 +14,11 @@
 </div>
 ---<br>
 🚀Visão Geral Profissional
-> 10 anos construindo sistemas web que geram receita real.  
-> Full Stack com Laravel + Next.js 14 + React + TailwindCSS  
-> Especialista em WordPress full code do zero (temas/plugins custom, Gutenberg, ACF Pro, WooCommerce)  
-> Headless WPGraphQL + Next.js para projetos escaláveis  
-> Clientes Brasil + EUA • Integrações Mercado Pago / Stripe / Pix automático
+> 10 anos construindo sistemas web que geram receita real. <br> 
+> Full Stack com Laravel + Next.js 14 + React + TailwindCSS <br>  
+> Especialista em WordPress full code do zero (temas/plugins custom, Gutenberg, ACF Pro, WooCommerce)<br>   
+> Headless WPGraphQL + Next.js para projetos escaláveis  <br> 
+> Clientes Brasil + EUA • Integrações Mercado Pago / Stripe / Pix automático<br> 
 
 ---
 ### 🧠 **Diferenciais de Mercado (2025-ready)**
