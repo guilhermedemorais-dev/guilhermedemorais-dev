@@ -13,8 +13,8 @@
   </div>
 </div>
 ---
-### 🚀 <br>Visão Geral Profissional</br>
-> **10 anos construindo sistemas web que geram receita real.**  
+### 🚀Visão Geral Profissional
+> 10 anos construindo sistemas web que geram receita real.  
 > Full Stack com Laravel + Next.js 14 + React + TailwindCSS  
 > Especialista em WordPress full code do zero (temas/plugins custom, Gutenberg, ACF Pro, WooCommerce)  
 > Headless WPGraphQL + Next.js para projetos escaláveis  
