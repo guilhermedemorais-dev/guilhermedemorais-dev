@@ -12,8 +12,8 @@
     <a href="https://guilhermedemorais-dev.github.io"><img src="https://img.shields.io/badge/PORTFÓLIO-00ff88?style=for-the-badge&logo=githubpages&logoColor=1a1a1a&labelColor=1a1a1a"></a>
   </div>
 </div>
----
-### 🚀Visão Geral Profissional
+---<br>
+🚀Visão Geral Profissional
 > 10 anos construindo sistemas web que geram receita real.  
 > Full Stack com Laravel + Next.js 14 + React + TailwindCSS  
 > Especialista em WordPress full code do zero (temas/plugins custom, Gutenberg, ACF Pro, WooCommerce)  
