@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/guilhermedemorais-dev.png" width="120" style="border-radius:50%"/>
+
 
   # Guilherme de Morais Pereira
 
