@@ -1,87 +1,115 @@
-<!-- HEADER NEON PRO 2025 -->
 <div align="center">
-  <img src="https://github.com/guilhermedemorais-dev.png" width="140" style="border-radius:50%; border:5px solid #00ff88; box-shadow:0 0 25px #00ff88;">
-  <h1 style="margin:20px 0 10px; color:#00ff88; font-weight:900; letter-spacing:1px;">GUILHERME DE MORAIS</h1>
-  <h3 style="margin:0 0 6px; color:#a0ffc0; font-weight:600;">Full Stack Engineer • Laravel • Next.js 14 • WordPress Full Code & Headless Expert</h3>
-  <p style="margin:0 0 20px; color:#ccc; font-size:1.1em;">10 anos • 13+ projetos entregues • Remoto / PJ imediato • Brasil + EUA</p>
-  <!-- BADGES PRO -->
-  <div style="display:flex; gap:14px; justify-content:center; flex-wrap:wrap; margin-bottom:20px;">
-    <a href="mailto:guilhermemp.business@gmail.com"><img src="https://img.shields.io/badge/EMAIL-FF0066?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a"></a>
-    <a href="https://wa.me/5522999811070"><img src="https://img.shields.io/badge/WHATSAPP-00ff88?style=for-the-badge&logo=whatsapp&logoColor=1a1a1a&labelColor=1a1a1a"></a>
-    <a href="https://linkedin.com/in/guilherme-de-morais"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a"></a>
-    <a href="https://guilhermedemorais-dev.github.io"><img src="https://img.shields.io/badge/PORTFÓLIO-00ff88?style=for-the-badge&logo=githubpages&logoColor=1a1a1a&labelColor=1a1a1a"></a>
-  </div>
+  <img src="https://github.com/guilhermedemorais-dev.png" width="120" style="border-radius:50%"/>
+
+  # Guilherme de Morais Pereira
+
+  **Desenvolvedor Fullstack · Automação com IA · Segurança da Informação**
+
+  Teresópolis, RJ · Disponível para CLT ou PJ · Remoto ou Presencial
+
+  [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:guilhermemp.business@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilherme-de-morais-pereira)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5522998911070)
+  [![Portfólio](https://img.shields.io/badge/Portfólio-111111?style=flat&logo=githubpages&logoColor=white)](https://guilhermedemorais-dev.github.io)
 </div>
----<br>
-🚀Visão Geral Profissional
-> 10 anos construindo sistemas web que geram receita real. <br> 
-> Full Stack com Laravel + Next.js 14 + React + TailwindCSS <br>  
-> Especialista em WordPress full code do zero (temas/plugins custom, Gutenberg, ACF Pro, WooCommerce)<br>   
-> Headless WPGraphQL + Next.js para projetos escaláveis  <br> 
-> Clientes Brasil + EUA • Integrações Mercado Pago / Stripe / Pix automático<br> 
 
 ---
-### 🧠 **Diferenciais de Mercado (2025-ready)**
-| Diferencial                       | Impacto Real                                  |
-|-----------------------------------|-----------------------------------------------|
-| WordPress Full Code do zero       | Temas e plugins 100% próprios, zero tema pronto |
-| Headless WP + Next.js 14          | Sites ultra-rápidos com SSR e App Router      |
-| Integrações Mercado Pago + Pix    | Checkout completo com split e parcelamento    |
-| SEO Técnico + Performance         | +30–38% tráfego orgânico em 6 meses           |
-| CI/CD Docker + GitHub Actions     | Deploy de 4h → 8 minutos                      |
-| Experiência EUA comprovada        | Ticket médio > US$3k por projeto              |
+
+## Sobre mim
+
+Analista e desenvolvedor de sistemas com graduação (Estácio, 2017) e 9 anos de experiência prática em desenvolvimento web, sistemas SaaS e automação com inteligência artificial.
+
+Atuo como desenvolvedor fullstack e consultor de tecnologia da informação para empresas. Tenho dois produtos em produção: o **ORION-CRM**, sistema de gestão para joalharia com automação via N8n e IA, e o **HabilitFy**, plataforma SaaS para autoescolas em fase de validação com usuários reais.
+
+Estou cursando **Segurança da Informação** (Cruzeiro do Sul, 2026) e direciono minha carreira para cibersegurança, com foco em segurança de aplicações web e APIs.
+
+**Palavras-chave:** desenvolvedor fullstack · Node.js · React · Laravel · PostgreSQL · Docker · automação N8n · segurança da informação · cibersegurança · application security · SaaS · Teresópolis RJ · Brasil
 
 ---
-### 🛠 **Skill Levels**
-#### **Backend & WordPress Engineering**
-| Skill                  | Nível       | Evidência                              |
-|------------------------|-------------|----------------------------------------|
-| PHP 8 / MVC / SOLID    | ██████████ 95% | 13+ projetos, código limpo e escalável |
-| WordPress Full Code    | ██████████ 98% | Temas/plugins custom, Gutenberg, ACF   |
-| Headless WPGraphQL     | █████████░ 85% | Decoupled com Next.js em produção      |
-| Laravel 11             | ████████░░ 80% | APIs REST + Filament em projetos reais |
-| MySQL                  | █████████░ 85% | Queries otimizadas em tráfego alto     |
 
-#### **Frontend & Performance**
-| Skill                  | Nível       | Evidência                              |
-|------------------------|-------------|----------------------------------------|
-| Next.js 14 (App Router)| ████████░░ 80% | SSR/SSG + WPGraphQL fetch              |
-| React / JS ES6+        | ████████░░ 80% | Componentes reutilizáveis              |
-| TailwindCSS            | █████████░ 90% | Mobile-first 100% responsivo           |
-| Core Web Vitals        | █████████░ 85% | Otimizações reais em produção          |
+## Stack
 
-#### **DevOps & Segurança**
-| Skill                  | Nível       | Evidência                              |
-|------------------------|-------------|----------------------------------------|
-| Docker + CI/CD         | ████████░░ 80% | GitHub Actions + 1-click deploy        |
-| VPS Tuning (Nginx)     | █████████░ 85% | AWS Lightsail / DigitalOcean otimizado |
-| Segurança WP           | ████████░░ 75% | Hardening + updates regulares          |
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![N8n](https://img.shields.io/badge/N8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 
 ---
-### 📊 **Projetos & Cases (com ROI)**
-| Projeto                          | Descrição                                   | Métrica                     | Link |
-|----------------------------------|---------------------------------------------|-----------------------------|------|
-| Headless WP + Next.js 14         | E-commerce / blog headless completo         | Performance +30%            | [Demo](https://github.com/guilhermedemorais-dev/headless-wp-next) |
-| Loja Woo + Mercado Pago + Pix    | Checkout BR completo com split              | Conversão +35%              | [Demo](https://github.com/guilhermedemorais-dev/woo-mercadopago) |
-| Plataforma EAD (GAS Tecnologia)  | Educação financeira/Bitcoin do zero         | +2.000 alunos no 1º ano     | Privado |
+
+## Projetos em produção
+
+### ORION-CRM: Sistema de Gestão para Joalharia
+> CRM/ERP desenvolvido do zero para cliente real em Santa Catarina. Produto em produção, com entrega final prevista para breve. Será comercializado como SaaS.
+
+**Stack:** Node.js · Express · PostgreSQL · React · N8n · Docker
+
+- Gestão de clientes, transações, emissão fiscal, agenda e integração com e-commerce
+- Automação de atendimento via WhatsApp com inteligência artificial integrada
+- Dados sensíveis em produção, arquitetura em conformidade com a LGPD
+- Desenvolvido com SDD (Spec-Driven Development) via Claude Code
+
+🔒 Repositório privado (projeto de cliente)
 
 ---
-### 💼 **Disponibilidade & Foco**
-**Remoto / PJ / Full-time ou Part-time** • **Início imediato**  
-Busco projetos com impacto real, código limpo e crescimento mensurável.
+
+### [HabilitFy: Plataforma SaaS para Autoescolas](https://github.com/guilhermedemorais-dev/habilitfy)
+> Plataforma que conecta alunos e instrutores de direção. Primeira versão concluída em fevereiro de 2026, em validação com usuários reais. Recursos que concorrentes como CNH Brasil não oferecem.
+
+**Stack:** React · Node.js · PostgreSQL · Docker
+
+- Agendamento de aulas, geolocalização, avaliações e checkout integrado
+- Painel completo do instrutor com gestão de agenda e histórico de alunos
+- Arquitetura SaaS projetada para escala com baixo custo operacional
 
 ---
-### 📎 **Currículos**
-🇧🇷 **CV Brasil (PDF)** → [Download](https://docs.google.com/document/d/1IaoOsVJ3WhbqxgZO3rxSLaJMn4KB5o1MKjGZNoHBHW8/edit?usp=sharing)  
-🇺🇸 **CV English (PDF)** → [Download](https://docs.google.com/document/d/1lo1wxoSJZK_rZzXqj-pWDZAyXX9JYnU5lbSnI0PtDMY/edit?usp=sharing)
+
+### [BuyPeer: E-commerce em Laravel](https://github.com/guilhermedemorais-dev/BuyPeer)
+> Plataforma de e-commerce própria desenvolvida e refatorada do zero.
+
+**Stack:** Laravel · Vue.js · PostgreSQL
 
 ---
-### 📫 **Contato Direto**
+
+## Formação
+
+| Curso | Instituição | Status |
+|---|---|---|
+| Segurança da Informação | Cruzeiro do Sul | Em curso (2026) |
+| Análise e Desenvolvimento de Sistemas | Estácio | Concluído (2017) |
+| Desenvolvimento Full Stack | Rocketseat | Concluído |
+| DevOps, Microsserviços e UI/UX | Udemy | Concluído |
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=guilhermedemorais-dev&show_icons=true&theme=dark&hide_border=true&count_private=true&locale=pt-br"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermedemorais-dev&layout=compact&theme=dark&hide_border=true&locale=pt-br"/>
+</div>
+
+---
+
+## Consultoria e contato
+
+Presto consultoria de tecnologia da informação para empresas, incluindo implementação de sistemas, automação de processos com N8n e inteligência artificial, desenvolvimento de produtos digitais e análise de segurança de aplicações.
+
 **Email:** guilhermemp.business@gmail.com  
-**WhatsApp:** [wa.me/5522999811070](https://wa.me/5522999811070)  
-**Site:** [guilhermedemorais-dev.github.io](https://guilhermedemorais-dev.github.io)
+**WhatsApp:** [+55 (22) 99891-1070](https://wa.me/5522998911070)  
+**LinkedIn:** [linkedin.com/in/guilherme-de-morais-pereira](https://linkedin.com/in/guilherme-de-morais-pereira)
 
 ---
-<div align="center" style="margin:40px 0 20px;">
-  <p style="color:#00ff88; font-weight:700; font-size:1.2em;">🔥 Entrego código que vende, não só código que funciona.</p>
+
+<div align="center">
+  <sub>Desenvolvedor Fullstack · Segurança da Informação · Teresópolis, RJ · Aberto a oportunidades CLT ou PJ</sub>
 </div>
